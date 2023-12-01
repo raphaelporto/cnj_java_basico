@@ -43,7 +43,9 @@ public class Caso {
 	}
 
 	public void setDecisao(char decisao) {
-		this.decisao = decisao;
+		if (decisao == 'A' || decisao == 'I' || decisao == 'C') {
+			this.decisao = decisao;
+		}
 	}
 
 	public String getDescricao() {
@@ -51,9 +53,7 @@ public class Caso {
 	}
 
 	public void setDescricao(String descricao) {
-		if (decisao == 'A' || decisao == 'I' || decisao == 'C') {
-			this.descricao = descricao;
-		}
+		this.descricao = descricao;
 	}
 	
 	public LocalDate getDataAbertura() {

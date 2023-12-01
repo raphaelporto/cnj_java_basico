@@ -1,0 +1,14 @@
+10,I,Testamento e Sucessão
+11,C,Testamento e Sucessão
+12,I,Testamento e Sucessão
+21,A,Caso 21
+22,I,Caso novo 22
+1,I,Divórcio e Partilha de Bens
+2,A,Divórcio e Partilha de Bens
+3,C,Divórcio e Partilha de Bens
+4,C,Divórcio e Partilha de Bens
+5,C,Divórcio e Partilha de Bens
+6,A,Divórcio e Partilha de Bens
+7,I,Divórcio e Partilha de Bens
+8,A,Testamento e Sucessão
+9,A,Testamento e Sucessão
